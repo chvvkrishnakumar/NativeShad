@@ -1,8 +1,9 @@
-# 📱 Expo NativeWind Template
+# 📱 NativeShad
 
+> 🚀 **A shadcn-inspired React Native starter** built with Expo, NativeWind, TypeScript, and reusable UI components.
 > 🚀 **Production-Ready Expo Starter Kit** - Mobile app template with 20+ pre-built UI components, TypeScript, NativeWind (Tailwind CSS), and platform-specific behaviors for iOS/Android.
 
-[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/chvvkrishnakumar/expo-nativewind-template/releases)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/chvvkrishnakumar/NativeShad/releases)
 [![Expo](https://img.shields.io/badge/Expo-SDK_56-000.svg?style=flat&logo=expo)](https://expo.dev)
 [![React Native](https://img.shields.io/badge/React%20Native-0.79.6-61DAFB.svg?style=flat&logo=react)](https://reactnative.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-blue.svg?style=flat&logo=typescript)](https://www.typescriptlang.org)
@@ -13,16 +14,25 @@
   <strong>20+ Pre-built UI Components • TypeScript • NativeWind • Expo Router • Dark Mode</strong>
 </p>
 
-## 🎯 Why This Template?
+## 🎯 Why NativeShad?
 
-Stop building UI components from scratch! This Expo starter template comes with:
+NativeShad brings a shadcn-inspired development experience to React Native.
+
+Instead of giving you a fixed UI framework, NativeShad gives you a collection of reusable, customizable components that you can own and adapt to your application.
+
+- ✅ Copy, customize, and extend components
+- ✅ NativeWind-powered styling
+- ✅ iOS and Android platform adaptations
+- ✅ Dark mode
+- ✅ TypeScript-first
+- ✅ Expo Router
+- ✅ Production-ready foundation
 
 - ✅ **20+ Pre-built Components** - Buttons, Cards, Dialogs, Bottom Sheets, and more
 - ✅ **Platform-Specific UI** - Automatic iOS/Android adaptations
 - ✅ **Dark Mode Ready** - System-aware theme switching
 - ✅ **Permission Management** - Unified API for all device permissions
 - ✅ **TypeScript First** - Full type safety out of the box
-- ✅ **Production Ready** - Best practices and scalable architecture
 
 ## 🌟 Perfect For
 
@@ -105,7 +115,7 @@ npx eas build --profile development --platform android
 
 1. **Clone the template**
    ```bash
-   git clone https://github.com/chvvkrishnakumar/expo-nativewind-template.git my-app
+   git clone https://github.com/chvvkrishnakumar/NativeShad.git my-app
    cd my-app
    ```
 
@@ -129,7 +139,7 @@ npx eas build --profile development --platform android
 ## 📁 Project Structure
 
 ```
-expo-nativewind-template/
+nativeshad/
 ├── app/                    # App routes (Expo Router)
 │   ├── (tabs)/            # Tab navigation screens
 │   │   ├── _layout.tsx    # Tab layout configuration
@@ -292,8 +302,8 @@ eas build --platform android --profile production
 
 | Library | Version | Description | Documentation |
 |---------|---------|-------------|--------------|
-| [Expo SDK](https://expo.dev) | ~53.0.0 | React Native framework | [Docs](https://docs.expo.dev/) |
-| [React Native](https://reactnative.dev) | 0.74.5 | Mobile framework | [Docs](https://reactnative.dev/docs/getting-started) |
+| [Expo SDK](https://expo.dev) | ~56.0.0 | React Native framework | [Docs](https://docs.expo.dev/) |
+| [React Native](https://reactnative.dev) | 0.79.6 | Mobile framework | [Docs](https://reactnative.dev/docs/getting-started) |
 | [TypeScript](https://www.typescriptlang.org) | ^5.3.3 | Type safety | [Docs](https://www.typescriptlang.org/docs/) |
 | [Expo Router](https://expo.github.io/router) | ~3.5.23 | File-based routing | [Docs](https://docs.expo.dev/router/introduction/) |
 | [NativeWind](https://www.nativewind.dev) | ^4.0.0 | Tailwind for RN | [Docs](https://www.nativewind.dev/v4/overview) |
