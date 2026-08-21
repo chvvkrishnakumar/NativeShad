@@ -1,5 +1,5 @@
 {
-  "name": "expo-nativewind-template",
+  "name": "NativeShad",
   "main": "expo-router/entry",
   "version": "0.1.0",
   "description": "A production-ready Expo template with NativeWind, TypeScript, and 20+ pre-built UI components",
@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chvvkrishnakumar/expo-nativewind-template"
+    "url": "https://github.com/chvvkrishnakumar/NativeShad"
   },
   "bugs": {
-    "url": "https://github.com/chvvkrishnakumar/expo-nativewind-template/issues"
+    "url": "https://github.com/chvvkrishnakumar/NativeShad/issues"
   },
-  "homepage": "https://github.com/chvvkrishnakumar/expo-nativewind-template#readme",
+  "homepage": "https://github.com/chvvkrishnakumar/NativeShad#readme",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
