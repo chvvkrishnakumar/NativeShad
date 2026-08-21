@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Expo NativeWind Template",
-    "slug": "expo-nativewind-template",
+    "name": "NativeShad",
+    "slug": "NativeShad",
     "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
