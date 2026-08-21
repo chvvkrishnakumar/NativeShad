@@ -67,7 +67,7 @@ Before each release:
 git init
 
 # Add remote repository
-git remote add origin https://github.com/chvvkrishnakumar/expo-nativewind-template.git
+git remote add origin https://github.com/chvvkrishnakumar/NativeShad.git
 
 # Create initial commit
 git add .
